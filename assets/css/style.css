@@ -866,7 +866,7 @@ h4 {
 }
 
 .bento-btn::after {
-    content: ' âž”';
+    content: '';
     transition: var(--transition-fast);
 }
 
